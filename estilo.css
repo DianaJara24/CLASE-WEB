@@ -1,0 +1,23 @@
+body { 
+    color: darkcyan;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: darkgreen;
+}
+
+input {
+    width: 30%;
+    border-radius: 2%;
+    margin: 8px;
+}
+
+fieldset{
+    background-color:blanchedalmond;
+}
+
+label{
+    display: inline-block;
+    width: 230px;
+}
